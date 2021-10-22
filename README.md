@@ -4,7 +4,7 @@
 - 💞️ Eu faço parte da Emakers Jr. e atuo como Diretor de Negócios, Designer e PO.
 - 📫 Meu e-mail é joaopliniosiqueira@gmail.com
 
-<!---
-Estou a procura de um ✨ estágio ✨
+
+Estou a procura de um ✨ estágio ✨ em desenvolvimento.
 😄
---->
+
