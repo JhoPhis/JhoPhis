@@ -3,6 +3,7 @@
 - 🌱 Eu estou atualmente aprendendo sobre HTML, CSS e JavaScript.
 - 💞️ Eu faço parte da Emakers Jr. e atuo como Diretor de Negócios, Designer e PO.
 - 📫 Meu e-mail é joaopliniosiqueira@gmail.com
+- :green_heart: Meu Linkedin é www.linkedin.com/in/joaopliniosiqueira/
 
 
 Estou a procura de um ✨ estágio ✨ em desenvolvimento.
