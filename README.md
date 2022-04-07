@@ -10,7 +10,7 @@
 </p>
 
 <hr>
-<h4> 💞️ Eu faço parte da <b>Emakers Jr.</b> e atuo como <b>Designer</b> e <b>Product Owner</b>. Também já atuei como <b>Diretor de Negócios</b>. </h4>
+<h4> 💞️ Eu ja fiz parte da <b>Emakers Jr.</b> e atuei como <b>Designer</b>, <b>Product Owner</b> e <b>Diretor de Negócios</b>. </h4>
 
 <hr>
 <h4> 👀 Eu trabalho com: </h4>
