@@ -11,6 +11,7 @@
 
 <hr>
 <h4> 💞️ Eu já fiz parte da <b>Emakers Jr.</b> e atuei como <b>Designer</b>, <b>Product Owner</b> e <b>Diretor de Negócios</b>. </h4>
+<h4> 💞️ Eu já fiz parte da <b>Youx Group</b> e atuei como Estagiário em <b>UX/UI Design</b>. </h4>
 
 <hr>
 <h4> 👀 Eu trabalho com: </h4>
@@ -25,7 +26,7 @@
 </p>
 
 <hr>
-<h3> Estou a procura de um ✨ estágio ✨ em desenvolvimento 😄 </h3>
+<h3> Eu estou atuando como ✨ Analista de Desenvolvimento de Sistemas ✨ na Squadra Digital 😄 </h3>
 
 <hr>
 <p align="right">
