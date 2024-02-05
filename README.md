@@ -7,5 +7,5 @@ Sou **Analista de Desenvolvimento de Sistemas** na [Squadra Digital](https://www
 - 📘 Técnico em Eletrônica pelo [SESI SENAI](https://www.fiemg.com.br/unidades/sesi-senai-itajuba-cfp-aureliano-chaves/)
 - 🔭 Atualmente trabalhando: `.java`
 - 🌱 Atualmente aprendendo:  `.ts`, `.html`, `.css`
-- 📫 Contatos: [email](joaopliniosiqueira@gmail.com), [LinkedIn](https://www.linkedin.com/in/joaopliniosiqueira/)
+- 📫 Contatos: [Email](mailto:joaopliniosiqueira@gmail.com?subject=Olá%20João%20Plínio), [LinkedIn](https://www.linkedin.com/in/joaopliniosiqueira/)
 - ☕ Curiosidades: mineiro, fã de café com leite e *gamer* nas horas vagas [[🎮](https://steamcommunity.com/id/jhophis)]
