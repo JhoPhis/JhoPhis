@@ -1,8 +1,8 @@
 ### 👋 Olá, bem vindo !!
-#### Meu nome é João e meu apelido é "JhoPhis".
+#### Meu nome é João e meu apelido é "JhoPhis"
 
 Minha ocupação:
-- 💻 **Analista de Desenvolvimento de Sistemas** na [Squadra Digital](https://www.squadra.com.br/index.html).<br>
+- 💻 **Analista de Desenvolvimento de Sistemas** na [Squadra Digital](https://www.squadra.com.br/index.html)<br>
 - 💼 Atualmente **trabalhando** com: `.java`
 - 🌱 Atualmente **aprendendo** sobre: `.js`, `.ts`, `.html`, `.css`
 
