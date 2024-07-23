@@ -3,8 +3,9 @@
 
 Minha ocupação:
 - 💻 **Analista de Desenvolvimento de Sistemas**<br>
-- 💼 Atualmente **trabalhando** com: `.java`
-- 🌱 Atualmente **aprendendo** sobre: `.js`, `.ts`, `.html`, `.css`
+- 🖱️ Atualmente **trabalhando** com: `python`
+- 📚 Atualmente **aprendendo** sobre: `javascript`, `typescript`, `html`, `css`
+- 💼 Já **trabalhei** com: `java`, `c`, `c++`
 
 Minha formação:
 - 🎓 **Bacharel em Sistemas de Informação** pela [UNIVERSIDADE FEDERAL DE LAVRAS](https://ufla.br/)
