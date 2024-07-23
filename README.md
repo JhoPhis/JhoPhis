@@ -1,11 +1,11 @@
 ### 👋 Olá, bem vindo !!
-#### Meu nome é João e meu apelido é "JhoPhis"
+#### Meu nome é João e meu *nickname* é "JhoPhis"
 
 Minha ocupação:
 - 💻 **Analista de Desenvolvimento de Sistemas**<br>
 - 🖱️ Atualmente **trabalhando** com: `python`
 - 📚 Atualmente **aprendendo** sobre: `javascript`, `typescript`, `html`, `css`
-- 💼 Já **trabalhei** com: `java`, `c`, `c++`
+- 💼 Já **trabalhei** com: `c`, `c++`, `java`
 
 Minha formação:
 - 🎓 **Bacharel em Sistemas de Informação** pela [UNIVERSIDADE FEDERAL DE LAVRAS](https://ufla.br/)
