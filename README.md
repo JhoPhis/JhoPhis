@@ -4,7 +4,7 @@
 Minha ocupação:
 - 💻 **Analista de Desenvolvimento de Sistemas**<br>
 - 🖱️ Atualmente **trabalhando** com: `python`
-- 📚 Atualmente **aprendendo** sobre: `javascript`, `typescript`, `html`, `css`
+- 📚 Atualmente **aprendendo** sobre: `javascript`
 - 💼 Já **trabalhei** com: `c`, `c++`, `java`
 
 Minha formação:
